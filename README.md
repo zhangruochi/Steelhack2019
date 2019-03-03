@@ -6,7 +6,7 @@
 
 ## Team member
 - Ruochi Zhang ([GitHub](https://github.com/zhangruochi))
-- Tianqi Xie ()
+- Tianqi Xie ([Github](https://github.com/kikixie95))
 - Xiaoqian Xu ([GitHub](https://github.com/Cecilia-xu))
 - Zhehao Guo ([GitHub](https://github.com/PaulGuo5))
 - Qi Lu ([GitHub](https://github.com/FawneLu))
