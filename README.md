@@ -5,11 +5,11 @@
 
 
 ## Team member
-- Tianqi Xu
-- Xiaoqian Xu 
-- Ruochi Zhang 
-- Zhehao Guo
-- Lu Qi
+- Ruochi Zhang ([GitHub](https://github.com/zhangruochi))
+- Tianqi Xie ()
+- Xiaoqian Xu ([GitHub](https://github.com/Cecilia-xu))
+- Zhehao Guo ([GitHub](https://github.com/PaulGuo5))
+- Qi Lu ([GitHub](https://github.com/FawneLu))
 
 
 ## Inspiration
